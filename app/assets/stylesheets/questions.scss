@@ -1,0 +1,29 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1, p, form {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+.input2 {
+  background-color:dodgerblue;
+  border-radius: 10px;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.input2:hover {
+  background-color: lightseagreen;
+}
+
+.input1 {
+  padding: 8px 16px;
+  border-radius: 5px;
+}
+
